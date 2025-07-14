@@ -1,0 +1,55 @@
+Product Name,Category,Recyclable,Organic,Carbon Neutral,Price
+Bamboo Toothbrush,Personal,Yes,Yes,Yes,30
+Plastic Bottle,Kitchen,No,No,No,20
+Steel Straw,Kitchen,Yes,No,Yes,50
+Cotton Bag,Bags,Yes,Yes,Yes,60
+Compostable Plate,Kitchen,Yes,Yes,No,40
+Eco Soap,Personal,Yes,Yes,Yes,35
+Reusable Bottle,Kitchen,Yes,No,Yes,55
+Organic Cotton T-Shirt,Clothing,No,Yes,Yes,80
+Wheat Straw Lunchbox,Kitchen,Yes,Yes,Yes,65
+Hemp Shopping Bag,Bags,Yes,Yes,Yes,70
+Biodegradable Trash Bag,Household,Yes,No,No,25
+Eco-Friendly Notebook,Stationery,Yes,Yes,Yes,45
+Recycled Paper Pen,Stationery,Yes,No,No,10
+Solar Power Bank,Electronics,Yes,No,Yes,120
+LED Bulb,Electronics,Yes,No,Yes,60
+Upcycled Wallet,Accessories,Yes,No,No,75
+Organic Tea,Food,No,Yes,Yes,40
+Plant-Based Detergent,Household,Yes,Yes,Yes,35
+Reusable Makeup Pads,Personal,Yes,Yes,Yes,25
+Jute Rug,Home Decor,Yes,Yes,No,90
+Eco Yoga Mat,Fitness,Yes,Yes,Yes,95
+Recycled Plastic Chair,Furniture,Yes,No,Yes,110
+Natural Loofah,Personal,Yes,Yes,Yes,20
+Organic Face Cream,Personal,No,Yes,Yes,55
+Refillable Cleaning Spray,Household,Yes,No,Yes,45
+Wooden Hairbrush,Personal,Yes,No,Yes,30
+Cornstarch Cutlery,Kitchen,Yes,Yes,No,20
+Canvas Tote Bag,Bags,Yes,Yes,Yes,50
+Laptop Solar Charger,Electronics,Yes,No,Yes,150
+Organic Snack Bars,Food,No,Yes,Yes,30
+Recycled Denim Jeans,Clothing,Yes,Yes,Yes,95
+Jute Pouch,Bags,Yes,Yes,Yes,40
+Bamboo Phone Case,Electronics,Yes,No,Yes,85
+Eco Laptop Sleeve,Accessories,Yes,Yes,Yes,70
+Organic Honey,Food,No,Yes,Yes,60
+Steel Lunch Box,Kitchen,Yes,No,Yes,80
+Recycled Paper Diary,Stationery,Yes,Yes,Yes,35
+Organic Lip Balm,Personal,No,Yes,Yes,25
+Upcycled Fabric Backpack,Bags,Yes,Yes,Yes,90
+Solar Lantern,Electronics,Yes,No,Yes,130
+Organic Granola,Food,No,Yes,Yes,55
+Bamboo Cutlery Set,Kitchen,Yes,Yes,Yes,45
+Eco Fabric Softener,Household,Yes,Yes,Yes,50
+Natural Deodorant,Personal,No,Yes,Yes,35
+Recycled Plastic Hanger,Household,Yes,No,Yes,15
+Compostable Cling Wrap,Kitchen,Yes,Yes,No,30
+Recycled Glass Jar,Kitchen,Yes,No,Yes,25
+Organic Trail Mix,Food,No,Yes,Yes,40
+Solar Backpack,Accessories,Yes,No,Yes,200
+codes,Electronics,Yes,No,No,50
+
+abc,Accessories,10.0,Yes,Yes,Yes,3
+tab,Electronics,2000.0,Yes,No,No,1
+tab,Electronics,200.0,Yes,No,No,1
